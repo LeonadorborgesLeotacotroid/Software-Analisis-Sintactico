@@ -13,6 +13,10 @@ Subliminal666 es un intérprete que permite ejecutar código con una sintaxis si
 - Ofrecer una sintaxis accesible para hispanohablantes
 - Servir como ejemplo de implementación de lexers y parsers en Python
 
+## Demostración
+- https://youtu.be/jhoRWGwF20s
+
+
 **Características principales:**
 
 - Variables y expresiones matemáticas  
@@ -31,7 +35,7 @@ Subliminal666 es un intérprete que permite ejecutar código con una sintaxis si
 
 ```bash
 git clone https://github.com/tu-usuario/subliminal666.git
-cd subliminal666
+cd Mi lenguaje
 
 Instala las dependencias:
 
