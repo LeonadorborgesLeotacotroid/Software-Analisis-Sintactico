@@ -35,22 +35,17 @@ cd subliminal666
 
 Instala las dependencias:
 
-bash
-Copiar
-Editar
 pip install ply
 Ejecuta el intérprete:
 
-bash
-Copiar
-Editar
 python main.py
+
+bash'''
+
 💻 Uso Básico
 El intérprete ofrece un REPL (Read-Eval-Print Loop) interactivo:
 
-shell
-Copiar
-Editar
+
 subliminal666> x = 5 + 3;
 subliminal666> imprimir(x);
 8
