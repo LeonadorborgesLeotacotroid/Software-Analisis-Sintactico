@@ -1,3 +1,38 @@
+# Subliminal666 - Intérprete de Lenguaje en Español
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![PLY](https://img.shields.io/badge/PLY-3.11-yellow.svg)
+
+Un intérprete para un lenguaje de programación con sintaxis en español, implementado en Python usando PLY (Lex/Yacc).
+
+## 🎯 Objetivo del Software
+
+Subliminal666 es un intérprete que permite ejecutar código con una sintaxis similar a pseudocódigo en español. Está diseñado para:
+
+- Proporcionar un entorno sencillo para aprender conceptos básicos de programación
+- Ofrecer una sintaxis accesible para hispanohablantes
+- Servir como ejemplo de implementación de lexers y parsers en Python
+
+**Características principales:**
+
+- Variables y expresiones matemáticas  
+- Estructuras de control (`si`, `sino`, `mientras`)  
+- Funciones básicas como `imprimir`  
+- Soporte para números enteros, decimales, booleanos y cadenas  
+
+## ⚙️ Requisitos del Sistema
+
+- Python 3.8 o superior  
+- Biblioteca PLY (instalada automáticamente)
+
+## 🚀 Instalación y Ejecución
+
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/tu-usuario/subliminal666.git
+cd subliminal666
+
 Instala las dependencias:
 
 bash
